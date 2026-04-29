@@ -60,14 +60,6 @@ The dataset includes:
 
 ```
 
----
-
-## Key Insights
-
-* Vehicles with larger engine sizes produce higher CO₂ emissions
-* Fuel type significantly impacts emission levels
-* Certain vehicle categories consistently contribute more to pollution
-* Efficient vehicles can be identified using comparative analysis
 
 
 
